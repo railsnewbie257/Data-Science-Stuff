@@ -14,3 +14,7 @@ $ conda create --name test
 #
 #     $ conda deactivate
 </pre>
+
+<pre>
+$ conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+</pre>
