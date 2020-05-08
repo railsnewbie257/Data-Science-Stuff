@@ -4,4 +4,4 @@
 
 [CNN Models for Time Series](https://machinelearningmastery.com/cnn-models-for-human-activity-recognition-time-series-classification/)
 
-[Principle Component Analysis](https://machinelearningmastery.com/principal-components-analysis-for-dimensionality-reduction-in-python/)
+[Principal Component Analysis for Dimensionality Reduction in Python](https://machinelearningmastery.com/principal-components-analysis-for-dimensionality-reduction-in-python/)
