@@ -27,3 +27,6 @@ If you have not already signed up for a free trial account, sign up here. Any pr
 Amazon Sagemaker Free Trial
 
 If you have not already created an AWS account, sign up here. Please select a region where SageMaker is available, e.g. EU-CENTRAL-1, close to your region.
+
+
+Sagemaker link: https://go.aws/3btMAoG
