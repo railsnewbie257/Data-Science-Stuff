@@ -41,3 +41,8 @@ max[(a;b)]
 (1;2;3;4;5)
 1 2 3 4 5
 
+
+Joins
+
+In a left hand join the right hand table always has toe be keyed
+
